@@ -1,13 +1,15 @@
+<img align='center' src="https://user-images.githubusercontent.com/102840775/198898022-3c43606b-ae48-4e73-97f6-8f17ab08fafc.png" width="230">
 ### Hey👋! I'm Antonio👨🏻‍💻
 
-<center><img align='center' src="https://user-images.githubusercontent.com/102840775/198898022-3c43606b-ae48-4e73-97f6-8f17ab08fafc.png" width="230"><br></center>
-<!-- ![profile-pic (16)](https://user-images.githubusercontent.com/102840775/198898022-3c43606b-ae48-4e73-97f6-8f17ab08fafc.png) -->
+
+
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
 
 **antoniopd/antoniopd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -20,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
