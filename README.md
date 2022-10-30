@@ -1,6 +1,6 @@
 ### Hey👋! I'm Antonio👨🏻‍💻
 
-<img align='center' src="https://user-images.githubusercontent.com/102840775/198898022-3c43606b-ae48-4e73-97f6-8f17ab08fafc.png" width="230"><br>
+<center><img align='center' src="https://user-images.githubusercontent.com/102840775/198898022-3c43606b-ae48-4e73-97f6-8f17ab08fafc.png" width="230"><br></center>
 <!-- ![profile-pic (16)](https://user-images.githubusercontent.com/102840775/198898022-3c43606b-ae48-4e73-97f6-8f17ab08fafc.png) -->
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
