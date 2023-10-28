@@ -27,13 +27,13 @@
 
 
 
-- 💻 &nbsp; PHP | Java | Typescript 
+- 💻 &nbsp; Angular | JavaScript | Typescript 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; HTML | CSS | Angular Material | Bootstrap | Sass
 
 - 🛢 &nbsp; MySQL | MongoDB
 
-- 🔧 &nbsp; Git | Gitlab 
+- 🔧 &nbsp; Git | Gitlab | GitHub
 
 - 🖥 &nbsp; Procreate| Photoshop | Canvas
 
@@ -43,7 +43,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Angular | Docker🐳 | Vuejs | Laravel
+- 🔧 &nbsp; Angular | Docker🐳 | Vuejs | Udemy
 
 <hr>
 
